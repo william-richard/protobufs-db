@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/william-richard/protobufs-db",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "69b215d01a5606c843240eab4937eab3acee6530"
+		}
+	]
+}
